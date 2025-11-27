@@ -1,6 +1,8 @@
 # Pomodoro App – Gestor de Tiempo y Tareas
 ## Una aplicación de escritorio basada en la técnica Pomodoro que te ayuda a gestionar tareas y mejorar tu concentración. Ideal para combatir la procrastinación y optimizar tu tiempo de estudio o trabajo.
 La "Pomodoro App" ofrece una herramienta intuitiva y funcional para organizar tareas, mantener la concentración durante períodos prolongados y combatir la procrastinación.
+<img width="802" height="634" alt="image" src="https://github.com/user-attachments/assets/6bec5031-607d-4f67-a59d-c7e6c5ef4504" />
+
 ### Características Principales
 ### Requerimientos Funcionales
 * Gestión de Tareas:
