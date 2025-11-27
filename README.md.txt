@@ -1,4 +1,4 @@
-Pomodoro App – Gestor de Tiempo y Tareas
+Pomodoro App – Gestor de Tiempo y Tareas.
 UNIVERSIDAD TECNOLÓGICA DE PEREIRA
 Facultad de Ingenierías
 IS553 Programación IV
