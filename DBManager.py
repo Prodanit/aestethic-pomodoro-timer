@@ -3,7 +3,7 @@ from pymongo.errors import ConnectionFailure
 from bson import ObjectId #permite guardar fechas mejor y usar el metodo sort (es de tipo binario)
 from datetime import datetime
 
-CONNECTION_STRING = "mongodb+srv://tina:g4torojo@cluster0.yjsoclc.mongodb.net/"
+CONNECTION_STRING = "" #Inserta tu conexión a MongoDB aquí
 
 class DatabaseManager:
     def __init__(self):
